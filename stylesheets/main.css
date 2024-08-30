@@ -461,13 +461,9 @@ button {
 }
 
 /* CALLOUT ================================================== */
-
-.callout {
-  padding: 100px 0;
-}
-
 .callout h2 {
   color: #ffcf00;
+  padding: 10px 0;
 }
 
 .callout h3 {
