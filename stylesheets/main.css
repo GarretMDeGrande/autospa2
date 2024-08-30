@@ -207,7 +207,7 @@ input[type="submit"] {
 .hero {
   background: black;
   background-size: cover;
-  min-height: 750px;
+  min-height: 550px;
   background-position: center;
 }
 
